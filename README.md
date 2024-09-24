@@ -43,8 +43,7 @@ The Contact Us page offers a simple yet effective way for users to reach out for
 
 LOGIN PAGE:
 
-![Screenshot 2024-09-24 170054](https://github.com/user-attachments/assets/7ee97f56-f40f-45fa-bd3f-5a59130522c9)
-
+![Screenshot 2024-09-24 170351](https://github.com/user-attachments/assets/20ec6355-a705-458f-b62e-6eebd151156b)
 The Sign-Up Page is an essential component of the Heavenly Room Booking website, allowing new users to create an account and define their role on the platform. Users are prompted to provide the following details:
 
 Name: The user's full name.
