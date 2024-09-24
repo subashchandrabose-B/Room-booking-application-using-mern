@@ -81,6 +81,9 @@ Updates on user bookings or other important platform messages.
 Mark as Read: Users can mark notifications as read by interacting with them directly in the dropdown.
 
 ROOM BOOKING WITH DATE FILTER:
+
+![Screenshot 2024-09-24 170524](https://github.com/user-attachments/assets/6ae53f81-dc10-4d17-85ec-1d8a19215d4b)
+
 Date Selection:
 A date picker allows users to select the check-in date. Only rooms available for the selected date are shown.
 If no rooms are available for a specific date, the page will display a message: "No rooms available. Try a different date."
