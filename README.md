@@ -55,6 +55,10 @@ Room Booking: For users looking to book rooms.
 House Owner: For users who want to register and list their homes for others to book.
 
 USER PROFILE:
+
+![Screenshot 2024-09-24 170239](https://github.com/user-attachments/assets/6874d301-6602-4513-a127-da4e8589c645)
+
+
 User Profile Icon
 Location: The User Profile Icon is located in the top-right corner of the navigation bar.
 Icon Design: The icon is represented by a user silhouette, displayed using FontAwesomeIcon (faUserCircle).
