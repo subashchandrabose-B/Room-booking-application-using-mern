@@ -42,6 +42,9 @@ CONTACT PAGE:
 The Contact Us page offers a simple yet effective way for users to reach out for help with various inquiries, whether related to bookings, technical problems, or general concerns. The form streamlines communication, while the dedicated contact emails provide a direct way to get in touch based on the nature of the issue.
 
 LOGIN PAGE:
+
+![Screenshot 2024-09-24 170054](https://github.com/user-attachments/assets/7ee97f56-f40f-45fa-bd3f-5a59130522c9)
+
 The Sign-Up Page is an essential component of the Heavenly Room Booking website, allowing new users to create an account and define their role on the platform. Users are prompted to provide the following details:
 
 Name: The user's full name.
