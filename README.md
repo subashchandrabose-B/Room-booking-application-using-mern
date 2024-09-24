@@ -98,3 +98,15 @@ Social Media Icons: Facebook, Twitter, Instagram, LinkedIn, and YouTube.
 User Profile Icon: Allows users to access their profile settings.
 Notification Icon: Displays user notifications related to queries or responses from the admin.
 
+Admin control:
+Secret Key Access: The app employs a secret key mechanism to control access to the dashboard. Only users with the correct key can unlock its features.
+
+Feedback Management: A dedicated section to collect and manage user feedback. Useful for tracking issues, suggestions, or improvements.
+
+Query Management: The app allows users to submit queries, which can be organized, tracked, and responded to in a systematic manner.
+
+Request Handling: There is a section specifically for handling various user requests, whether they are technical, administrative, or service-related.
+
+Data Cleaning: An admin feature that allows for the clearing of entries (feedback, queries, or requests), giving more control over managing the database.
+
+Responsive UI: The interface is designed to work seamlessly across multiple devices, whether on desktop or mobile.
