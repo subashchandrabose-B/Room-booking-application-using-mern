@@ -69,7 +69,7 @@ Responsive Design: The icon adjusts to different screen sizes and remains access
 
 NOTIFICATION ICON:
 
-![Screenshot 2024-09-24 170239](https://github.com/user-attachments/assets/6874d301-6602-4513-a127-da4e8589c645)
+![Screenshot 2024-09-24 170253](https://github.com/user-attachments/assets/fda26168-476a-4bd0-b2e7-d2ecef77e0ff)
 
 Icon Design: It is represented by a bell icon, commonly used for notifications, implemented using FontAwesomeIcon (faBell).
 Functionality:
