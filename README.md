@@ -25,6 +25,16 @@ Price per night for renters.
 Number of rooms and bedrooms.
 Address and image upload to help customers view and locate the property easily.
 
+EDIT DETAILS OF ROOM:
+![Screenshot 2024-09-24 170128](https://github.com/user-attachments/assets/7ba9583c-5b42-417d-a48b-248690d33883)
+
+Page Functionality:
+The "My Rooms" page serves as a property management interface where room or property owners can:
+
+View the status of their listed rooms.
+Edit or remove rooms as needed.
+See essential details about each room (price, status, and description).
+Ensure that the property is active and properly represented with an image and correct details.
 
 
 
