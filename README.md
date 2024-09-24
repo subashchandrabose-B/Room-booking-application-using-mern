@@ -53,3 +53,13 @@ Password: A secure password for logging in.
 Purpose: A dropdown selection for specifying the user's role:
 Room Booking: For users looking to book rooms.
 House Owner: For users who want to register and list their homes for others to book.
+
+USER PROFILE:
+User Profile Icon
+Location: The User Profile Icon is located in the top-right corner of the navigation bar.
+Icon Design: The icon is represented by a user silhouette, displayed using FontAwesomeIcon (faUserCircle).
+Functionality:
+Profile Access: Clicking on the icon opens a dropdown menu where users can view and edit their profile, log out, or access other user-specific settings.
+Popup Menu: A pop-up menu appears when the icon is clicked, and it disappears when the user clicks anywhere else on the screen.
+Responsive Design: The icon adjusts to different screen sizes and remains accessible on both desktop and mobile views.
+
