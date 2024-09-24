@@ -4,7 +4,7 @@ This is a room booking application built with the MERN (MongoDB, Express.js, Rea
 
 Home Page:
 
-
+![Screenshot 2024-09-24 165941](https://github.com/user-attachments/assets/8bafb799-5552-4f8e-86f9-04a5659aaf81)
 
 
 
