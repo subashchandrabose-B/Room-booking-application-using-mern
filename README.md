@@ -145,7 +145,7 @@ todos: Handles task management or to-do lists.
 COMMANDS TO CLONE IT AND RUN IN YOUR LOCAL HOST:
 
 STEP 1 Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/subashchandrabose-B/Room-booking-application-using-mern.git)
 
 STEP 2 Navigate into the project directory:
 cd your-repo
