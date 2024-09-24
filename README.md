@@ -26,7 +26,7 @@ Number of rooms and bedrooms.
 Address and image upload to help customers view and locate the property easily.
 
 EDIT DETAILS OF ROOM:
-![Screenshot 2024-09-24 170128](https://github.com/user-attachments/assets/7ba9583c-5b42-417d-a48b-248690d33883)
+![Screenshot 2024-09-24 170210](https://github.com/user-attachments/assets/8800b7ca-6027-475f-8dee-6760f4388f4b)
 
 Page Functionality:
 The "My Rooms" page serves as a property management interface where room or property owners can:
