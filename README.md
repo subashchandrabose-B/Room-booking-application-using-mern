@@ -68,6 +68,9 @@ Popup Menu: A pop-up menu appears when the icon is clicked, and it disappears wh
 Responsive Design: The icon adjusts to different screen sizes and remains accessible on both desktop and mobile views.
 
 NOTIFICATION ICON:
+
+![Screenshot 2024-09-24 170239](https://github.com/user-attachments/assets/6874d301-6602-4513-a127-da4e8589c645)
+
 Icon Design: It is represented by a bell icon, commonly used for notifications, implemented using FontAwesomeIcon (faBell).
 Functionality:
 Query Notifications: Users receive notifications when an admin responds to their queries or inquiries.
