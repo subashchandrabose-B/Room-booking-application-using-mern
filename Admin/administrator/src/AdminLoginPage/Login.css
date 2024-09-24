@@ -1,0 +1,81 @@
+.Login{
+    height: 90vh;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Login:hover {
+    transform: scale(1.05);
+  }
+  
+.LoginBackground{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(199, 193, 193);
+    height: 50%;
+    width: 40%;
+    border-radius: 10%;
+}
+.loginForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+label {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #333333;
+  }
+  
+  .secreteKey {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .secreteKey:focus {
+    border-color: #667eea;
+    outline: none;
+    box-shadow: 0 0 5px rgba(102, 126, 234, 0.5);
+  }
+  
+  button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: #667eea;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  button:hover {
+    background: #764ba2;
+    transform: scale(1.05);
+  }
+  
+  button:active {
+    background: #5a67d8;
+  }
+
+  @media screen and (max-width: 800px) {
+    .LoginBackground{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color:rgb(199, 193, 193);
+      height: 50%;
+      width: 75%;
+      border-radius: 10%;
+      border-right: 2px solid white;
+  }
+}

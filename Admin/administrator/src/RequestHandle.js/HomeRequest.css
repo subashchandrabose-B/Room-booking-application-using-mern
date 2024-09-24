@@ -1,0 +1,88 @@
+/* HomeRequest.css */
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.home-request-container {
+    padding: 20px;
+    width: 50%;
+}
+
+.request-card {
+    background-color: #333;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    color:black;
+    background-color:rgb(234, 232, 232);
+}
+
+.request-info {
+    margin-bottom: 10px;
+}
+
+.request-details {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.description, .address {
+    width: 48%;
+}
+
+.description h5, .address h5 {
+    margin-bottom: 10px;
+    color: black;
+}
+
+.description-item, .address-item {
+    margin-bottom: 10px;
+}
+
+.label {
+    font-weight: bold;
+    color: black;
+}
+
+.approve-button {
+    padding: 10px 20px;
+    background-color:green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.approve-button:hover {
+    background-color: #0056b3;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .home-request-container {
+        padding: 20px;
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .home-request-container {
+        padding: 20px;
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .home-request-container {
+        padding: 20px;
+        width: 90%;
+    }
+}
+@media screen and (max-width: 560px) {
+    .home-request-container {
+        padding: 20px;
+        width: 100%;
+    }
+}

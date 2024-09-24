@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.NavMain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    height: 100vh;
+    border-right: 2px solid white;
+    color: white;
+    padding-bottom: 80px;
+    background-color: #333; /* Background color to make it stand out */
+}
+
+.subNav {
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.NavEle {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid whitesmoke;
+    padding: 15px 0;
+}
+
+.NavEle a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+}
+.NavEle :hover{
+     color: yellow;
+}
+.NavEle :active{
+    color: yellow;
+}
+/* Media query for screens smaller than 480px (e.g., very small mobile devices) */
+@media screen and (max-width: 800px) {
+    .NavMain {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 25%;
+        height: 100vh;
+        border-right: 2px solid white;
+        color: white;
+        padding-bottom: 80px;
+        background-color: #333; /* Background color to make it stand out */
+    }
+}
+
