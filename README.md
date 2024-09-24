@@ -99,6 +99,9 @@ User Profile Icon: Allows users to access their profile settings.
 Notification Icon: Displays user notifications related to queries or responses from the admin.
 
 Admin control:
+
+![Screenshot 2024-09-24 233749](https://github.com/user-attachments/assets/a7c0877b-c370-47dd-ae27-190e2d7148b2)
+
 Secret Key Access: The app employs a secret key mechanism to control access to the dashboard. Only users with the correct key can unlock its features.
 
 Feedback Management: A dedicated section to collect and manage user feedback. Useful for tracking issues, suggestions, or improvements.
