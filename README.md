@@ -15,6 +15,15 @@ Contact: Offers contact details for support or inquiries.
 Register House: This is the key option for the room register or property owner. By clicking on this, property owners can start the process of registering their rooms or houses on the platform.
 My House: This could serve as a dashboard for registered users to manage their properties, see current bookings, update room details, or modify pricing.
 
+ROOM REGITERING FORM:
+![Screenshot 2024-09-24 170128](https://github.com/user-attachments/assets/7ba9583c-5b42-417d-a48b-248690d33883)
+Functionality of this Page:
+This page is designed to allow property owners to input comprehensive details about their house or property in order to register it for booking. It's a straightforward and user-friendly form that gathers essential data like:
+
+The name of the property.
+Price per night for renters.
+Number of rooms and bedrooms.
+Address and image upload to help customers view and locate the property easily.
 
 
 
