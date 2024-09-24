@@ -67,3 +67,13 @@ Profile Access: Clicking on the icon opens a dropdown menu where users can view 
 Popup Menu: A pop-up menu appears when the icon is clicked, and it disappears when the user clicks anywhere else on the screen.
 Responsive Design: The icon adjusts to different screen sizes and remains accessible on both desktop and mobile views.
 
+NOTIFICATION ICON:
+Icon Design: It is represented by a bell icon, commonly used for notifications, implemented using FontAwesomeIcon (faBell).
+Functionality:
+Query Notifications: Users receive notifications when an admin responds to their queries or inquiries.
+Unread Notification Badge: A red badge with a count appears on the notification icon whenever there are unread messages or responses from the admin.
+Dropdown Notification List: When clicked, the icon opens a dropdown showing a list of recent notifications, including:
+Admin responses to user queries.
+Updates on user bookings or other important platform messages.
+Mark as Read: Users can mark notifications as read by interacting with them directly in the dropdown.
+
