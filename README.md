@@ -36,5 +36,6 @@ Edit or remove rooms as needed.
 See essential details about each room (price, status, and description).
 Ensure that the property is active and properly represented with an image and correct details.
 
-
+CONTACT PAGE:
+The Contact Us page offers a simple yet effective way for users to reach out for help with various inquiries, whether related to bookings, technical problems, or general concerns. The form streamlines communication, while the dedicated contact emails provide a direct way to get in touch based on the nature of the issue.
 
