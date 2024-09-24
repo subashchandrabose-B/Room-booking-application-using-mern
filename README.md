@@ -115,6 +115,9 @@ Data Cleaning: An admin feature that allows for the clearing of entries (feedbac
 Responsive UI: The interface is designed to work seamlessly across multiple devices, whether on desktop or mobile.
 
 MONGODB TO STORE DATA:
+
+![Screenshot 2024-09-24 234653](https://github.com/user-attachments/assets/5e64b880-f9c8-4e6d-b24d-7a3bd8eb03d4)
+
 MongoDB Collections
 logincredentials
 
