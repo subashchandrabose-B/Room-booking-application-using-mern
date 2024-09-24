@@ -114,6 +114,27 @@ Data Cleaning: An admin feature that allows for the clearing of entries (feedbac
 
 Responsive UI: The interface is designed to work seamlessly across multiple devices, whether on desktop or mobile.
 
+MONGODB TO STORE DATA:
+MongoDB Collections
+logincredentials
+
+Stores user login information.
+May include fields like username, password, role, and authentication-related details.
+housedatas
+
+Stores information about available rooms and houses.
+Each entry contains:
+name: The name of the room or house.
+price: The cost of renting the room/house.
+description: Details about the room/house, including an image URL.
+address: A nested object that contains apartmentNo, street, city, state, and zipCode.
+bookedDates: An array to track booking details and approval status.
+Other Collections:
+
+bookingdetails: Manages the details of user bookings.
+notifications: Tracks system or user notifications.
+queries: Stores user-submitted queries.
+todos: Handles task management or to-do lists.
 
 
 
