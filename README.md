@@ -37,5 +37,7 @@ See essential details about each room (price, status, and description).
 Ensure that the property is active and properly represented with an image and correct details.
 
 CONTACT PAGE:
+![Screenshot 2024-09-24 170054](https://github.com/user-attachments/assets/7ee97f56-f40f-45fa-bd3f-5a59130522c9)
+
 The Contact Us page offers a simple yet effective way for users to reach out for help with various inquiries, whether related to bookings, technical problems, or general concerns. The form streamlines communication, while the dedicated contact emails provide a direct way to get in touch based on the nature of the issue.
 
