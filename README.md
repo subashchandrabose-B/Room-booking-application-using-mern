@@ -113,3 +113,23 @@ Request Handling: There is a section specifically for handling various user requ
 Data Cleaning: An admin feature that allows for the clearing of entries (feedback, queries, or requests), giving more control over managing the database.
 
 Responsive UI: The interface is designed to work seamlessly across multiple devices, whether on desktop or mobile.
+
+
+
+
+
+COMMANDS TO CLONE IT AND RUN IN YOUR LOCAL HOST:
+
+STEP 1 Clone the repository:
+git clone https://github.com/your-username/your-repo.git
+
+STEP 2 Navigate into the project directory:
+cd your-repo
+
+STEP 3 Install project dependencies:
+npm install
+
+STEP 4 Start the server:
+
+npm start
+
