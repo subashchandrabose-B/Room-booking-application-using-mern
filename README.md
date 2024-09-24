@@ -80,3 +80,18 @@ Admin responses to user queries.
 Updates on user bookings or other important platform messages.
 Mark as Read: Users can mark notifications as read by interacting with them directly in the dropdown.
 
+ROOM BOOKING WITH DATE FILTER:
+Date Selection:
+A date picker allows users to select the check-in date. Only rooms available for the selected date are shown.
+If no rooms are available for a specific date, the page will display a message: "No rooms available. Try a different date."
+Room Display Section:
+Once a date is selected and rooms are available, this section will showcase the rooms with details such as price, description, and images.
+Responsive Design:
+The layout is fully responsive and adjusts smoothly to different screen sizes.
+Header Navigation:
+The top navigation bar includes links to:
+Home, About, Contact, My-Bookings, and Rooms.
+Social Media Icons: Facebook, Twitter, Instagram, LinkedIn, and YouTube.
+User Profile Icon: Allows users to access their profile settings.
+Notification Icon: Displays user notifications related to queries or responses from the admin.
+
